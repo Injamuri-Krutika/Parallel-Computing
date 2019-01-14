@@ -1,0 +1,18 @@
+1) Count Prime Numbers:
+Step 1: gcc -o omp_primeCount -fopenmp openMPCountPrimeNumber.c
+Step 2: ./omp_primeCount
+
+2) Pi Calcultation:
+Step 1: gcc -o pi -fopenmp openMPPi.c
+Step 2: ./pi
+
+3) Generate Prime Numbers:
+Step 1: gcc -o primeGen -fopenmp primeNumberGeneration.c
+Step 2: ./primeGen
+
+4) Prefix Sum:
+Step 1: gcc -o preSum -fopenmp prefixSum.c
+Step 2: ./preSum
+
+
+
